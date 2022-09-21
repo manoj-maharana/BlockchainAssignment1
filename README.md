@@ -74,4 +74,5 @@ In body It requires:
     "receiver":"Sachin",
     "amount": 5000   
 }
-
+For Mine block: 
+http://192.168.1.8:5001/mine_block
